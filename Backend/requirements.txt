@@ -6,3 +6,5 @@ crewai-tools<1.6
 langchain-groq<0.2
 pinecone
 firecrawl-py
+litellm
+requests
