@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+crewai<1.6
+crewai-tools<1.6
+langchain-groq<0.2
+pinecone
+firecrawl-py
